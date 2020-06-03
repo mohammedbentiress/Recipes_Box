@@ -3,7 +3,7 @@
 
  you can create recipes.
 
-You can edit recipes.
+ you can edit recipes.
 you can remove recipes.
 you can list recipes.
 
