@@ -2,7 +2,7 @@
  Recipes_Box is a simple CREATE, READ, UPDATE and DELETE application.
 
 you can create recipes.
-you can edit recipes.
+You can edit recipes.
 you can remove recipes.
 you can list recipes.
 
